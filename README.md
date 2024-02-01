@@ -1,11 +1,11 @@
 
 //CHATGRAM
--> create application by create-react-app
--> install tailwindcss
--> RouterProvider to route at login page and chatpage
--> Add Login and ChatPage component
--> Design signIn nad Register page
--> Add toggleForm to toggle the form
+1. create application by create-react-app
+2. install tailwindcss
+3. RouterProvider to route at login page and chatpage
+4. Add Login and ChatPage component
+5. Design signIn nad Register page
+6. Add toggleForm to toggle the form
 
 
 
